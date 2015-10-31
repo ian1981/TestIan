@@ -1,0 +1,47 @@
+EXTINF:0, Sky Sport 1
+
+rtmp://89.248.174.38/live/dskys1
+
+#EXTINF:0, Sky Sport 2
+
+rtmp://89.248.174.38/live/dskys2
+
+#EXTINF:0, Sky Sport 3
+
+rtmp://89.248.174.38/live/dskys3
+
+#EXTINF:0, Sky Sport 4
+
+rtmp://89.248.174.38/live/dskys4
+
+#EXTINF:0, Sky Sport 5
+
+rtmp://89.248.174.38/live/dskys5
+
+#EXTINF:0, Sky f1
+
+rtmp://89.248.174.38/live/dskysf1
+
+#EXTINF:0, BT Sport 1
+
+rtmp://89.248.174.38/live/dbt1
+
+#EXTINF:0, BT Sport 2
+
+rtmp://89.248.174.38/live/dbt2
+
+#EXTINF:0, British Eurosport
+
+rtmp://89.248.174.38/live/deuro1
+
+#EXTINF:0, British Eurosport 2
+
+rtmp://89.248.174.38/live/deuro2
+
+#EXTINF:-1, BT Sport 1
+
+rtmp://134.19.185.252:1935/livedge/mamahdbtsport1
+
+#EXTINF:-1, BT Sport 2
+
+rtmp://134.19.185.252:1935/livedge/mamahdbtsport2
